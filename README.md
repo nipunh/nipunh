@@ -15,5 +15,5 @@
 - 💬 Ask me about React & JS Freameworks
 - 📫 How to reach me: nipunhedaoo@gmail.com
 - 😄 Protfolio : https://nipunh.github.io/ (Under Development)
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 404
 
