@@ -8,7 +8,7 @@
 **nipunh/nipunh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working with Platos Inc as Software Engineer
+- 🔭 Experience working with Platos Inc as Software Engineer
 - 🌱 I’m currently learning Advance Java
 - 👯 I’m looking to collaborate on JavaScript Projects
 - 🤔 I’m looking for help with Hosting an OpenCV project
