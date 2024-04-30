@@ -15,6 +15,6 @@
 - 🤔 I’m looking for help with Hosting an OpenCV project
 - 💬 Ask me about React & JS Freameworks
 - 📫 How to reach me: nipunhedaoo@gmail.com
-- 😄 Protfolio : https://nipunh.github.io/ (Under Development)
+- 😄 Protfolio : https://nipunh.github.io/
 - ⚡ Fun fact: 404
 
