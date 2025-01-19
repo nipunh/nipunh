@@ -8,10 +8,10 @@
 **nipunh/nipunh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 Experience working with Platos Inc and Virtusa as Software Engineer
+- 🔭 Experience working with T-Mobile, Platos Inc and Virtusa as Software Engineer
 - 🌱 I’m currently learning Advance Java
 - 👯 I’m looking to collaborate on JavaScript Projects
-- 🤔 I’m looking for help with Hosting an OpenCV project
+- 🤔 I’m looking forward to making open-source contributions
 - 💬 Ask me about React & JS Freameworks
 - 📫 How to reach me: nipunhedaoo@gmail.com
 - 😄 Protfolio : https://nipunh.github.io/
